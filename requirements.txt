@@ -1,0 +1,10 @@
+streamlit
+google-genai
+requests
+beautifulsoup4
+lxml
+pandas
+python-dateutil
+pytrends
+fredapi
+feedparser
